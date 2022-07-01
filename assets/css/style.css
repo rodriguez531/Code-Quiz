@@ -1,0 +1,19 @@
+
+header {
+    padding: 30 px 25px;
+    border-bottom: 5px solid var(--primary);
+    color: darkblue;
+}
+
+header p {
+    margin: 5px 0 20px;
+    font-size: 1rem;
+}
+
+.btn {
+    display:block;
+}
+
+.hide {
+    display: none;
+}
